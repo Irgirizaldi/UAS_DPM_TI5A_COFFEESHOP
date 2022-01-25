@@ -3,17 +3,15 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/UAS_DPM_TI5A_COFFEESHOP/app/src/main/res/drawable/bgcolor.xml" value="0.17407407407407408" />
-        <entry key="..\:/UAS_DPM_TI5A_COFFEESHOP/app/src/main/res/drawable/bglog.xml" value="0.17407407407407408" />
-        <entry key="..\:/UAS_DPM_TI5A_COFFEESHOP/app/src/main/res/drawable/button.xml" value="0.17407407407407408" />
-        <entry key="..\:/UAS_DPM_TI5A_COFFEESHOP/app/src/main/res/drawable/button2.xml" value="0.2712962962962963" />
-        <entry key="..\:/UAS_DPM_TI5A_COFFEESHOP/app/src/main/res/drawable/garis.xml" value="0.2712962962962963" />
-        <entry key="..\:/UAS_DPM_TI5A_COFFEESHOP/app/src/main/res/drawable/goog.xml" value="0.25833333333333336" />
-        <entry key="..\:/UAS_DPM_TI5A_COFFEESHOP/app/src/main/res/drawable/hint.xml" value="0.26481481481481484" />
-        <entry key="..\:/UAS_DPM_TI5A_COFFEESHOP/app/src/main/res/layout/activity_dashboard.xml" value="0.14114583333333333" />
-        <entry key="..\:/UAS_DPM_TI5A_COFFEESHOP/app/src/main/res/layout/activity_login.xml" value="0.264" />
-        <entry key="..\:/UAS_DPM_TI5A_COFFEESHOP/app/src/main/res/layout/activity_register.xml" value="0.264" />
-        <entry key="..\:/UAS_DPM_TI5A_COFFEESHOP/app/src/main/res/layout/featured_card_design.xml" value="0.1" />
+        <entry key="..\:/UAS_DPM_TI5A_COFFEESHOP/app/src/main/res/drawable/bgshape.xml" value="0.18385416666666668" />
+        <entry key="..\:/UAS_DPM_TI5A_COFFEESHOP/app/src/main/res/drawable/favorite.xml" value="0.1287037037037037" />
+        <entry key="..\:/UAS_DPM_TI5A_COFFEESHOP/app/src/main/res/layout/activity_deskripsi.xml" value="0.13" />
+        <entry key="..\:/UAS_DPM_TI5A_COFFEESHOP/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/UAS_DPM_TI5A_COFFEESHOP/app/src/main/res/layout/activity_menu2.xml" value="0.15" />
+        <entry key="..\:/riki/UAS_DPM_TI5A_COFFEESHOP/app/src/main/res/drawable/bagan.xml" value="0.15989583333333332" />
+        <entry key="..\:/riki/UAS_DPM_TI5A_COFFEESHOP/app/src/main/res/drawable/favorite.xml" value="0.15989583333333332" />
+        <entry key="..\:/riki/UAS_DPM_TI5A_COFFEESHOP/app/src/main/res/layout/activity_deskripsi.xml" value="0.176" />
+        <entry key="..\:/riki/UAS_DPM_TI5A_COFFEESHOP/app/src/main/res/layout/activity_menu2.xml" value="0.264" />
       </map>
     </option>
   </component>
