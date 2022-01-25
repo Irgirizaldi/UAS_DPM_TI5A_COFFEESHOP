@@ -3,10 +3,12 @@
     <color name="coklat">#381202</color>
     <color name="coklat1">#7B3F00</color>
     <color name="coklat2">#894C0B</color>
-    <color name="coklat3">#5A2711</color>
+    <color name="merah">#D74922</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="colorshadow">#7F000000</color>
     <color name="home_background">#C4C4C4</color>
+    <color name="bagan">#868889</color>
+    <color name="border">#33868889</color>
 
 </resources>

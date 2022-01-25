@@ -10,16 +10,16 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.UAS_DPM_TI5A_COFFEESHOP">
         <activity
-            android:name=".DashboardActivity"
+            android:name=".ProfileActivity"
             android:exported="false" />
         <activity
-            android:name=".StartedActivity"
-            android:exported="true">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
+            android:name=".KeranjangActivity"
+            android:exported="true" >
+        <intent-filter>
+            <action android:name="android.intent.action.MAIN" />
 
-                <category android:name="android.intent.category.LAUNCHER" />
-             </intent-filter>
+            <category android:name="android.intent.category.LAUNCHER" />
+        </intent-filter>
         </activity>
     </application>
 
